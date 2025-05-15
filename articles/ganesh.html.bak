@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<!--
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>Spiritual Awakeness of Hinduism and Oneness</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="../assets/css/main.css" />
+</head>
+
+<body class="is-preload">
+
+	<!-- Nav -->
+	<nav id="nav">
+		<ul class="container">
+			<li><a href="#top">Top</a></li>
+			<li><a href="#work">Mission</a></li>
+			<li><a href="#portfolio">Portfolio</a></li>
+			<li><a href="#contact">Contact</a></li>
+		</ul>
+	</nav>
+
+	<!-- Home -->
+	<article id="top" class="wrapper style1">
+		<div class="container">
+			<div class="row">
+				<div class="col-4 col-5-large col-12-medium">
+					<span class="image fit"><img src="../images/Super_Brain_Yoga.png" alt="" /></span>
+				</div>
+				<div class="col-8 col-7-large col-12-medium">
+					<header>
+						<h2><i>The Symbolism of Super Brain Yoga in Ganesha Worship</i></h2>
+					</header>
+					<p><i>Whenever we visit temples, especially in front of Lord Ganapathy (Ganesha), we often see
+							devotees performing a gesture where they cross their arms, hold their earlobes, and perform
+							squats — a practice known as Dhorbi Karanam or Thoppukaranam in Tamil. While traditionally
+							seen as an act of devotion and humility, this practice has also gained attention in modern
+							science. Referred to as "Super Brain Yoga," it is believed to activate specific acupuncture
+							points on the earlobes that stimulate neural pathways, enhance concentration, and improve
+							brain abilities. This aligns with the work of neurologist Dr. Paul Nogier, who found that
+							the ear resembles an inverted fetus and corresponds to various parts of the body, including
+							the brain.</i></p>
+
+					<p><i>As you may know, in Hinduism, ancient rishis often conveyed deeper concepts through symbolic
+							representations, adding layers of meaning and beauty to spiritual practices. In the case of
+							Super Brain Yoga, the act of stimulating brain function through this simple exercise is
+							symbolically represented by Lord Ganesha's large elephant head — a powerful emblem of
+							wisdom, intelligence, and mental clarity. Thus, the ritual not only serves a scientific
+							purpose but also beautifully reflects the symbolic essence of Ganesha himself.</i></p>
+
+					<p><i>Did you know that most of us perform it incorrectly — with wrong finger placement, arm
+							position, or facing the wrong direction? Curious to learn the right way to do Super Brain
+							Yoga and unlock the wisdom symbolized by Lord Ganesha’s mighty elephant head?</i></p>
+					<a href="articles.html" class="button">Back</a>
+				</div>
+			</div>
+		</div>
+	</article>
+
+
+
+
+
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
